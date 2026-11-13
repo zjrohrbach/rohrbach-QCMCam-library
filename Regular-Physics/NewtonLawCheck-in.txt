@@ -1,0 +1,256 @@
+{
+  "qcm": {
+    "_name": "Newton's Law Check-in (Physics I)",
+    "_type": "markdown",
+    "_questionsList": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "_id": 2,
+    "_uniqueId": "6d13c2bd-c556-4aa1-9b43-64a65e76b949",
+    "_coloredAnswers": false,
+    "_colors": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "_vignette": "",
+    "_questions": [],
+    "_sectionId": 0,
+    "_markdownSource": "# Newton's Law Check-in (Physics I)\n\n## Which of the following is true about Newton’s First Law?\n- [ ] It corresponds to $𝐹_{𝑁𝐸𝑇}=𝑚𝑎$\n- [ ] It says that every action force has an equal and opposite reaction force\n- [x] It is sometimes called the Law of Inertia\n- [ ] It states that all objects fall at the same rate\n\n\n## The water rocket pushed the fuel down and the fuel pushed the rocket up. Which law explains this?\n- [ ] Newton’s First Law (NFL)\n- [ ] Newton’s Second Law (NSL)\n- [x] Newton’s Third Law (NTL)\n\n## You are swimming.  The action force is that your hands push the water backwards.  What is the reaction force?\n- [x] The force of the water pushing your hands forward\n- [ ] The fact that you moved forward\n- [ ] The force of the water pushing backward against you and slowing you down\n- [ ] The force of gravity\n\n## You want to push a heavy bowling ball and a light beach ball in such a way that they have the same acceleration.  Which one needs more force?\n- [ ] Light ball\n- [x] Heavy ball\n- [ ] Both need the same force\n\n## You are at a stop light.  When the light turns green, you accelerate and feel like you are being pushed backward in your seat.  Which law explains this? \n- [x] Newton’s First Law (NFL)\n- [ ] Newton’s Second Law (NSL)\n- [ ] Newton’s Third Law (NTL)\n\n## Which of Newton’s Laws explains that objects with more mass accelerate at a lower rate?\n- [ ] Newton’s First Law (NFL)\n- [x] Newton’s Second Law (NSL)\n- [ ] Newton’s Third Law (NTL)\n\n## If an astronaut travels to the moon, which of the following changes?\n- [ ] The astronaut’s mass\n- [x] The astronaut’s weight\n- [ ] The astronaut’s mass and weight\n- [ ] Neither the mass nor the weight\n\n\n"
+  },
+  "type": "qcmcam2",
+  "questions": [
+    {
+      "_content": "<h3>Which of the following is true about Newton’s First Law?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "It corresponds to <span class=\"math-tex\">𝐹_{𝑁𝐸𝑇}=𝑚𝑎</span>",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "It says that every action force has an equal and opposite reaction force",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "It is sometimes called the Law of Inertia",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "It states that all objects fall at the same rate",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 2,
+      "_uniqueId": "209da313-e684-486c-afb1-311a03742d94"
+    },
+    {
+      "_content": "<h3>The water rocket pushed the fuel down and the fuel pushed the rocket up. Which law explains this?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "Newton’s First Law (NFL)",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Second Law (NSL)",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Third Law (NTL)",
+          "_isCorrect": true,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 3,
+      "_uniqueId": "c89e8b7b-e39b-4a33-bf8c-6ac7b02176bf"
+    },
+    {
+      "_content": "<h3>You are swimming.  The action force is that your hands push the water backwards.  What is the reaction force?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "The force of the water pushing your hands forward",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "The fact that you moved forward",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "The force of the water pushing backward against you and slowing you down",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "The force of gravity",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 4,
+      "_uniqueId": "b4879dd3-eff0-474d-9ed5-aa495cf3450f"
+    },
+    {
+      "_content": "<h3>You want to push a heavy bowling ball and a light beach ball in such a way that they have the same acceleration.  Which one needs more force?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "Light ball",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Heavy ball",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "Both need the same force",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 5,
+      "_uniqueId": "2695afad-18ab-47e7-a4d9-ad0e3dc18518"
+    },
+    {
+      "_content": "<h3>You are at a stop light.  When the light turns green, you accelerate and feel like you are being pushed backward in your seat.  Which law explains this?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "Newton’s First Law (NFL)",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Second Law (NSL)",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Third Law (NTL)",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 6,
+      "_uniqueId": "0cb4aec0-8563-4f35-b6a2-2ec7eea376a3"
+    },
+    {
+      "_content": "<h3>Which of Newton’s Laws explains that objects with more mass accelerate at a lower rate?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "Newton’s First Law (NFL)",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Second Law (NSL)",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "Newton’s Third Law (NTL)",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 7,
+      "_uniqueId": "6cb16b8e-4afc-4c25-84d5-9e410e1715ec"
+    },
+    {
+      "_content": "<h3>If an astronaut travels to the moon, which of the following changes?</h3>",
+      "_source": "",
+      "_type": "text",
+      "_answers": [
+        {
+          "_content": "The astronaut’s mass",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "The astronaut’s weight",
+          "_isCorrect": true,
+          "_color": ""
+        },
+        {
+          "_content": "The astronaut’s mass and weight",
+          "_isCorrect": false,
+          "_color": ""
+        },
+        {
+          "_content": "Neither the mass nor the weight",
+          "_isCorrect": false,
+          "_color": ""
+        }
+      ],
+      "_displayMode": "classic",
+      "_shuffleMode": true,
+      "_multipleAnswerMode": false,
+      "_timedMode": false,
+      "_duration": 0,
+      "_textSize": 1,
+      "_id": 8,
+      "_uniqueId": "0541c58c-7b51-4949-90e7-65daa29fb42a"
+    }
+  ]
+}
